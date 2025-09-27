@@ -29,3 +29,4 @@ D:\programmieren\Monogame\Slime\Slime\obj\Debug\net8.0\refint\Slime.dll
 D:\programmieren\Monogame\Slime\Slime\obj\Debug\net8.0\Slime.pdb
 D:\programmieren\Monogame\Slime\Slime\obj\Debug\net8.0\Slime.genruntimeconfig.cache
 D:\programmieren\Monogame\Slime\Slime\obj\Debug\net8.0\ref\Slime.dll
+D:\programmieren\Monogame\Slime\Slime\bin\Debug\net8.0\Content\images\logo.xnb
